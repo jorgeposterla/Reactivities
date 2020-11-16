@@ -1,0 +1,9 @@
+F:\CoreReact\Reactivities\Domain\bin\Debug\netstandard2\Domain.deps.json
+F:\CoreReact\Reactivities\Domain\bin\Debug\netstandard2\Domain.dll
+F:\CoreReact\Reactivities\Domain\obj\Debug\netstandard2\Domain.csprojAssemblyReference.cache
+F:\CoreReact\Reactivities\Domain\obj\Debug\netstandard2\Domain.AssemblyInfoInputs.cache
+F:\CoreReact\Reactivities\Domain\obj\Debug\netstandard2\Domain.AssemblyInfo.cs
+F:\CoreReact\Reactivities\Domain\bin\Debug\netstandard2\Domain.pdb
+F:\CoreReact\Reactivities\Domain\obj\Debug\netstandard2\Domain.csproj.CoreCompileInputs.cache
+F:\CoreReact\Reactivities\Domain\obj\Debug\netstandard2\Domain.dll
+F:\CoreReact\Reactivities\Domain\obj\Debug\netstandard2\Domain.pdb

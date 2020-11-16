@@ -1,0 +1,14 @@
+F:\CoreReact\Reactivities\Application\bin\Debug\netstandard2\Domain.dll
+F:\CoreReact\Reactivities\Application\bin\Debug\netstandard2\Persistence.dll
+F:\CoreReact\Reactivities\Application\obj\Debug\netstandard2\Application.csprojAssemblyReference.cache
+F:\CoreReact\Reactivities\Application\obj\Debug\netstandard2\Application.AssemblyInfoInputs.cache
+F:\CoreReact\Reactivities\Application\obj\Debug\netstandard2\Application.AssemblyInfo.cs
+F:\CoreReact\Reactivities\Application\bin\Debug\netstandard2\Application.deps.json
+F:\CoreReact\Reactivities\Application\bin\Debug\netstandard2\Application.dll
+F:\CoreReact\Reactivities\Application\bin\Debug\netstandard2\Application.pdb
+F:\CoreReact\Reactivities\Application\bin\Debug\netstandard2\Domain.pdb
+F:\CoreReact\Reactivities\Application\bin\Debug\netstandard2\Persistence.pdb
+F:\CoreReact\Reactivities\Application\obj\Debug\netstandard2\Application.csproj.CoreCompileInputs.cache
+F:\CoreReact\Reactivities\Application\obj\Debug\netstandard2\Application.csproj.CopyComplete
+F:\CoreReact\Reactivities\Application\obj\Debug\netstandard2\Application.dll
+F:\CoreReact\Reactivities\Application\obj\Debug\netstandard2\Application.pdb
